@@ -1,4 +1,4 @@
-# Online-Hospital-Management-System
+# Munirat Clinic and Maternity,
 HMS Project which covers all the aspects of hospital.
 
 Online Hospital Management System:
